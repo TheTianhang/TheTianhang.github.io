@@ -27,7 +27,7 @@ Comments: Fill your email and then download
 
     Install Lammps: [https://lammps.sandia.gov/download.html]
 
-Comments: The simplest way is to use cmake.
+Comments: The simplest way is to use cmake, which can be installed from https://cmake.org/install/
 
 
     cd lammps                # change to the LAMMPS distribution directory
