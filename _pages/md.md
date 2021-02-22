@@ -9,15 +9,21 @@ redirect_from:
 
 How to run MD simulation?
 
-I. Preparation (Linux):
+I. Preparation all softwares(Linux):
+
+  Moltemplate
 
     Install Moltemplate: [https://www.moltemplate.org/download.html]
 
-**Comments**: easy process in linux. git clone https://github.com/jewettaij/moltemplate moltemplate 
+**Comments**: easy process in linux. git clone https://github.com/jewettaij/moltemplate moltemplate
+
+  Packmol
 
     Install packmol: [http://leandro.iqm.unicamp.br/m3g/packmol/download.shtml]
 
 **Comments**: Fill your email and then download
+
+  Lammps
 
     Install Lammps: [https://lammps.sandia.gov/download.html]
 
@@ -34,7 +40,7 @@ II. Simulation
 
 Following the first example https://www.moltemplate.org/examples.html 
 
-Download all files then:
+  Download all files then:
 
     moltemplate.sh system.lt
 
