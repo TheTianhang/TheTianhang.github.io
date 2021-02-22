@@ -11,16 +11,29 @@ How to run MD simulation?
 
 I. Preparation (Linux):
 
-1. Install Moltemplate: [https://www.moltemplate.org/download.html]
+    Install Moltemplate: [https://www.moltemplate.org/download.html]
 
-**Comments**: easy process in linux. 
+**Comments**: easy process in linux. git clone https://github.com/jewettaij/moltemplate moltemplate 
 
-git clone https://github.com/jewettaij/moltemplate moltemplate 
+    Install packmol: [http://leandro.iqm.unicamp.br/m3g/packmol/download.shtml]
 
-2. Install packmol: [http://leandro.iqm.unicamp.br/m3g/packmol/download.shtml]
+**Comments**: Fill your email and then download
 
-**Comments**: Fill your email and 
+    Install Lammps: [https://lammps.sandia.gov/download.html]
 
-3. Install Lammps: [https://lammps.sandia.gov/download.html]
+**Comments**: The simplest way is to use cmake.
 
-**Comments**:
+
+    cd lammps                # change to the LAMMPS distribution directory
+    mkdir build; cd build    # create and use a build directory
+    cmake ../cmake           # configuration reading CMake scripts from ../cmake
+    cmake --build .          # compilation (or type "make")
+
+
+II. Following the first example https://www.moltemplate.org/examples.html 
+
+Download all files
+
+moltemplate.sh system.lt
+
+lmp_mpi -i run.in.npt
