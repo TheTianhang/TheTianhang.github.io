@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-
-Tutorial for Molecular dynamics simulation:
-------
-
   
 ---
 
