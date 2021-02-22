@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "hwo to"
+title: "how to"
 permalink: /md/
 author_profile: true
 redirect_from:
