@@ -1,9 +1,10 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
   - title: "How to run MD simulation?"
     url: /md/
+  #- title: "Publications"
+  #  url: /publications/
+
   #- title: "Talks"
   #  url: /talks/    
 
