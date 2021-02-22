@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "How to run MD simulation?"
-    url: /md/
+
   #- title: "Publications"
   #  url: /publications/
 
@@ -22,3 +21,5 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+  - title: "How to run MD simulation?"
+    url: /md/
