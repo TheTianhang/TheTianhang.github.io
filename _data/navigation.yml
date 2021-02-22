@@ -16,10 +16,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Curriculum Vitae"
-    url: /cv/
+  #- title: "Curriculum Vitae"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
+  
   - title: "How to run MD simulation?"
     url: /md/
