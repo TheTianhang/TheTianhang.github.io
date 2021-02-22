@@ -9,7 +9,7 @@ redirect_from:
 
 How to run MD simulation?
 
-I. Preparation all softwares(Linux):
+**I. Preparation all softwares(Linux):**
 
   **Moltemplate**
 
@@ -36,7 +36,7 @@ Comments: The simplest way is to use cmake.
     cmake --build .          # compilation (or type "make")
 
 
-II. Simulation
+**II. Simulation**
 
 Following the first example https://www.moltemplate.org/examples.html 
 
