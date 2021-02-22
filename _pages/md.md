@@ -30,10 +30,12 @@ I. Preparation (Linux):
     cmake --build .          # compilation (or type "make")
 
 
-II. Following the first example https://www.moltemplate.org/examples.html 
+II. Simulation
 
-Download all files
+Following the first example https://www.moltemplate.org/examples.html 
 
-moltemplate.sh system.lt
+Download all files then:
 
-lmp_mpi -i run.in.npt
+    moltemplate.sh system.lt
+
+    lmp_mpi -i run.in.npt
