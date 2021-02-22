@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "How to run MD simulation?"
+title: "hwo to"
 permalink: /md/
 author_profile: true
 redirect_from:
--/md.html
--/md
-
----
+  - /resume
 ---
 How to run MD simulation?
