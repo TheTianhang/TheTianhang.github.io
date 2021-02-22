@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "how to"
-permalink: /md/
+permalink: /mds/
 author_profile: true
 redirect_from:
   - /resume
