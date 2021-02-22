@@ -9,7 +9,7 @@ redirect_from:
 
 How to run MD simulation?
 
-**I. Preparation all softwares(Linux):**
+**I. Preparation of softwares(Linux):**
 
   **Moltemplate**
 
