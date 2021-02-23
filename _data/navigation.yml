@@ -2,6 +2,8 @@
 main:
   - title: "How to run MD simulation?"
     url: /mds/
+  - title: "Useful tools"
+    url: /tuto/
   #- title: "Publications"
   #  url: /publications/
 
