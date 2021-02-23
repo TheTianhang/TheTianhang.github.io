@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Let everyone (interested) know what is simulation and how to run simulation.
 
-
-
-  
 ---
 
 Publications:
